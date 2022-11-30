@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{ 
+    color: white;
+    text-decoration: underline;
+}
+
+h2{
+    font-family: 'Rubik', sans-serif;
+}
+
+.main{
+    background-color: #5E9DEA;
+}
+
+nav{
+    height: 50px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 100%);
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: 5px solid;
+    height: 500px;
+    margin: 0;
+    
+}
+
+.fixed{
+    height: 300px;
+    background-image: url(https://www.erajaya.com/files/uploads/newseventattachment/uri/2021/Jan/15/600188b518f4a/available-web-banner-iphone-12-pro-dekstop-1091x_.jpg?token=3063ae63cef065bef572f6acc6e2787c);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    background-position: 30% 70%;
+}
+
+#opcIndex{
+    font-size: 30px;
+}
+
+.nav{
+    border: 1px groove;
+    border-radius: 10px;
+    margin: 1px;
+
+
+}
+
+.section{
+    border: 2px solid;
+    margin: 1px;
+}
+
+.aside{
+    border: 2px solid;
+    margin: 1px;
+}
+
+#tituloFooter{
+    
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+.descripcion{
+    color: aliceblue;
+    text-align: justify;
+    font-size: 20px;
+}
+
+
+
+
+
+
